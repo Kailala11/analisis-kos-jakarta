@@ -35,7 +35,6 @@ Project ini melakukan analisis komprehensif terhadap data kos-kosan di Jakarta u
 - **Analisis Mendalam**: Eksplorasi faktor lokasi, fasilitas, dan karakteristik kos
 - **Model Akurat**: Prediksi harga dengan R² score > 0.85
 - **Actionable Insights**: Rekomendasi praktis untuk stakeholders
-- **Bahasa Indonesia**: Dokumentasi lengkap dalam Bahasa Indonesia
 
 ---
 
